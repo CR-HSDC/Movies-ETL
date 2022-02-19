@@ -29,7 +29,7 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 **Source File:**
 ETL\_clean\_kaggle\_data.ipynb
 
-# Deliverable 4:#
+# Deliverable 4:
 ## Create the Movie Database
 
 **Requirement:** Use your knowledge of Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
